@@ -2,6 +2,8 @@
 
 O desenvolvimento de uma API Rest utilizando Java com Spring Boot
 
+![2022-03-14 (1)](https://user-images.githubusercontent.com/91857484/158254145-b99890d0-351b-4793-846c-fc5ead56b8be.png)
+
 ## 🛠 Componentes
 * Java
 * Spring Boot
